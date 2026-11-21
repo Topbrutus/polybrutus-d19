@@ -1,5 +1,14 @@
 # POLYBRUTUS 19D — Exact Euclidean 24-point metric and thirteenfold model graph mode
 
+## Official publicly verified scientific release
+
+- **Zenodo DOI:** [10.5281/zenodo.24409343](https://doi.org/10.5281/zenodo.24409343), [public record 24409343](https://zenodo.org/records/24409343), checked by the public Zenodo REST API.
+- **Frozen source tag:** [`v0.1.0`](https://github.com/Topbrutus/polybrutus-d19/tree/v0.1.0), source commit `1aa9721edcf6eb374a301863a5c1c4e566e69838`.
+- **Exact verified GitHub CI:** [D19 GitHub Actions run 44848244667](https://github.com/Topbrutus/polybrutus-d19/actions/runs/44848244667), conclusion `success` with two verification programs on the frozen science commit.
+- **Verified Zenodo artifacts:** tagged Git source ZIP, mathematical preprint PDF and exact labelled JSON distance certificate with all 276 pairs.
+- **Limits:** minimum affine Euclidean dimension 19 and an explicitly chosen mathematical graph spectrum; no general universal novelty, measured frequency or physical extra-dimension claim.
+
+
 **Human researcher and scientific responsibility:** Gabriel St-Pierre, independent researcher.  
 **Research status:** exactly reproducible mathematical case study, **not independently peer reviewed by a human**.  
 **AI disclosure:** OpenAI ChatGPT (Astra) substantially assisted the symbolic mathematical verification, separately implemented rational verifier, theoretical graph spectrum, drafting, and publication. AI is not an author.
